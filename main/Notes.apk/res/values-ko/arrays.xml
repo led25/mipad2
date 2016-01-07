@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>이름</item>
+        <item>별명</item>
+        <item>스마트폰</item>
+        <item>이메일</item>
+        <item>조직</item>
+        <item>IM</item>
+        <item>SIP 폰</item>
+        <item>생일</item>
+        <item>웹사이트</item>
+        <item>주소</item>
+        <item>메모</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>소</item>
+        <item>기본값</item>
+        <item>대</item>
+        <item>최대</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"탭하여 노트 만들기
+"</item>
+        <item>"사진을 추가하거나 체크박스를 표시하려면, 아래 버튼을 탭하십시오.
+"</item>
+        <item>"메모를 길게 눌러 고정, 이동 또는 삭제
+"</item>
+        <item>"더 훌륭한 기능!
+  - Mi 클라우드로 동기화
+  - 재알림 설정
+
+더 알아 보려면, 
+http://www.miui.com/forum.php?lang=1을 방문하십시오.
+"</item>
+    </string-array>
+</resources>

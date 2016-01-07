@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d곡 발견됨</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d일 남음</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d곡 다운로드합니다.</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d곡의 새 노래</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d 노래</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d곡의 비슷한 노래</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">재생 목록에 추가된 %d곡</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">재생 목록에서 제거된 %d곡</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d곡</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d곡이 전송됩니다.</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d곡</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d곡 추가됨</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">이번달 %d 프리미엄 음악들을 다운로드 할 수 있습니다. 더 많은 다운로드를 원하시면 프리미엄 구독을 업데이트 하십시오.</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">이번달 %d 프리미엄 음악들을 다운로드 할 수 있습니다. 선택한 음악들을 다운로드 하시겠습니까?</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">재생목록 %d개를 삭제하겠습니까?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d 명의 아티스트</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d 개의 밴드</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">%d개의 음악을 삭제하겠습니까?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">%d개의 음악을 제거하겠습니까?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">%d분 뒤 재생이 멈춥니다</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d 개 선택됨</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">노래가 즐겨찾기에 추가 되었습니다.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">네트워크 위치</string>
+    <string name="location_warning_title">위치 정보 수집</string>
+    <string name="location_warning_title_first">위치 정보 수집</string>
+    <string name="location_warning_title_close">위치 정보 수집</string>
+    <string name="location_warning_message">"NLP (Network Location Provider) 기능이 설치되어 사용 되었을경우, 사용자는 익명의 위치정보를 얻기 위하여 Baidu Map 위치 서비스를 허용할 것입니다. 암호화된 정보들은 사용자의 휴대폰에 암호화 되어 저장될것 입니다. 때로는, 어떠한 응용프로그램이 실행되고 있지 않더라도 정보수집이 발생할수 있습니다. 사용자는 데이터 사용에 대하여 과금을 부과할 것입니다. 수집된 정보는 위치 측정이나 정확도 향상에 사용될 것입니다. 수집된 정보들이 서비스 제공을 제외한 다른 목적을 위하여 사용되지 않을 것을 약속합니다. 수집되는 데이터는 다음과 같습니다. 
+1. 주위로부터 수집된 WLAN AP의 ID와 신호세기. 
+2. 기지국 주위로부터 수집된 ID와 신호세기 (GSM, CDMA) ."</string>
+    <string name="location_warning_message1">NLP (Network Location Provider) 기능이 설치되어 사용 되었을경우, 사용자는 익명의 위치정보를 얻기 위하여 Baidu Map 위치 서비스를 허용할 것입니다. 암호화된 정보들은 사용자의 휴대폰에 암호화 되어 저장될것 입니다. 때로는,어떠한 응용프로그램이 실행되고 있지 않더라도 정보수집이 발생할수 있습니다.</string>
+    <string name="location_warning_message2">사용자는 데이터 사용에 대하여 과금을 부과할 것입니다. 수집된 정보는 위치 측정이나 정확도 향상에 사용될 것입니다. 수집된 정보들이 서비스 제공을 제외한 다른 목적을 위하여 사용되지 않을 것을 약속합니다. 수집되는 데이터는 다음과 같습니다.</string>
+    <string name="location_warning_message3">어떠한 응용프로그램이 실행되고 있지 않더라도 정보수집이 발생할수 있습니다.</string>
+    <string name="location_warning_message4">기지국 주위로부터 수집된 ID와 신호세기 (GSM, CDMA).</string>
+    <string name="location_warning_message5">-</string>
+    <string name="location_close_warning_message">Closed NetworkLocation service will cause any application can not location.</string>
+    <string name="location_first_warning_message">In order to bring you a better user experience, the system will open network location service.</string>
+    <string name="always_wifi_scan_tip_tittle">항상 검색 허용</string>
+    <string name="always_wifi_scan_tip_content">WLAN이 해제된 경우에도, 네트워크 위치 서비스 및 애플리케이션에서 WLAN을 찾을 수 있도록 허용합니다.</string>
+    <string name="agree">동의함</string>
+    <string name="disagree">동의 안함</string>
+    <string name="close_agree">동의함</string>
+    <string name="close_disagree">동의 안함</string>
+</resources>
